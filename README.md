@@ -1,4 +1,4 @@
-# DIO_PROJETO-_POWER_BI
+# DIO_Projeto-_Power_BI
 PROJETO POWER BI
 
 ![image](https://github.com/alessandragalvaos/DIO_PROJETO-_POWER_BI/assets/156546129/040041d5-07f0-457d-9dfa-bb1cc8013eb2)
